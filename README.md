@@ -6,7 +6,7 @@ The Weather Dashboard was created in order to allow the user to view the current
 
 Screenshot
 
- <img src="./assets/Images/screenshot.PNG" alt="Screenshot"/>
+ <img src="./assets/images/screenshot.PNG" alt="Screenshot"/>
 
 
 
